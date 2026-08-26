@@ -171,7 +171,7 @@ flowchart TD
     D --> E[Resultado sonoro]
 ```
 
-A representação destaca a interdependência entre pressão, ponto de contato e velocidade descrita por Mertens.---
+A representação destaca a interdependência entre pressão, ponto de contato e velocidade descrita por Mertens.
 
 ---
 
