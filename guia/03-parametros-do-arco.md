@@ -163,3 +163,6 @@ Os parâmetros do arco funcionam como um sistema.
 **inclinação + direção + pressão + ponto de contato + velocidade**
 
 A técnica consiste em aprender a controlar esse sistema de acordo com a resposta da corda e com o resultado musical desejado.
+
+[← Anterior](02-como-o-arco-produz-o-som.md) ·
+[Próximo →](04-corpo-e-movimento.md)
