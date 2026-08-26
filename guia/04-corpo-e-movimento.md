@@ -162,6 +162,24 @@ O instrumentista observa o resultado e modifica a ação conforme necessário.
 Esse processo transforma a prática em uma investigação contínua.
 
 ---
+## Modelo de integração corporal
+
+```mermaid
+flowchart LR
+    A[Ombro] --> B[Braço]
+    B --> C[Cotovelo]
+    C --> D[Antebraço]
+    D --> E[Pulso]
+    E --> F[Mão]
+    F --> G[Polegar e dedos]
+    G --> H[Arco]
+    H --> I[Corda]
+    I --> J[Som]
+```
+
+O diagrama representa uma simplificação didática da cadeia corporal envolvida no controle do arco. Ele não representa uma transmissão mecânica rígida ou exclusivamente linear entre as estruturas.
+
+---
 
 ## Síntese
 
