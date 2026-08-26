@@ -75,6 +75,8 @@ Torres, Maria Inês Vaz. *Introdução à técnica de arco no violoncelo. Estrat
 Putzner, Catarina. *Os impactos das tensões do polegar na técnica de arco*. 2025.
 ---
 
+
+
 ## Navegação
 
 [← Voltar ao início](../README.md) ·
