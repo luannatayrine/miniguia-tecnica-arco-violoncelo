@@ -154,6 +154,25 @@ Por exemplo:
 
 O objetivo não é encontrar uma "posição perfeita", mas desenvolver percepção da relação entre ação e resposta.
 
+
+
+## Relação entre os principais parâmetros
+
+```mermaid
+flowchart TD
+    A[Pressão / Peso] <--> B[Ponto de contato]
+    B <--> C[Velocidade]
+    C <--> A
+
+    A --> D[Resposta da corda]
+    B --> D
+    C --> D
+
+    D --> E[Resultado sonoro]
+```
+
+A representação destaca a interdependência entre pressão, ponto de contato e velocidade descrita por Mertens.---
+
 ---
 
 ## Síntese
