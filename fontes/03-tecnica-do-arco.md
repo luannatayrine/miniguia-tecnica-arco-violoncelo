@@ -1,41 +1,70 @@
 # Técnica do arco
 
-## Objetivo
+## Fontes principais
 
-Investigar os princípios técnicos envolvidos no controle do arco e sua relação com a produção sonora no violoncelo.
+- Mertens, Georg — *Re-Thinking Bow Technique* (2008)
+- Torres, Maria Inês Vaz — *Introdução à técnica de arco no violoncelo* (2025)
+- Putzner, Catarina — *Os impactos das tensões do polegar na técnica de arco* (2025)
 
 ## Parâmetros fundamentais
 
-- Pressão do arco
-- Velocidade do arco
-- Ponto de contato
-- Direção do movimento
-- Distribuição do arco
-- Quantidade de arco utilizada
+A técnica de arco pode ser analisada a partir da relação entre diferentes parâmetros:
 
-## Questões principais
+- velocidade;
+- pressão;
+- ponto de contato;
+- direção;
+- distribuição do arco;
+- controle da mão e dos dedos.
 
-- Como controlar a velocidade do arco?
-- Como controlar a pressão sem gerar tensão excessiva?
-- Como escolher o ponto de contato?
-- Como esses parâmetros interferem na qualidade sonora?
-- Como a técnica varia entre diferentes regiões do arco?
-- Como mudanças de dinâmica modificam o uso do arco?
+## 1. Velocidade
 
-## Coordenação
+A velocidade determina a rapidez com que o arco percorre a corda.
 
-A técnica será analisada considerando a coordenação entre:
+Sua utilização deve ser analisada em conjunto com a pressão e o ponto de contato.
 
-- braço;
-- antebraço;
-- punho;
-- mão;
-- dedos;
-- arco;
-- corda.
+## 2. Pressão
 
-## Relação entre técnica e física
+A pressão corresponde à força exercida pelo sistema arco-mão-braço sobre a corda.
 
+O objetivo técnico não é simplesmente aumentar a força, mas encontrar uma relação adequada entre força, velocidade e ponto de contato.
+
+## 3. Ponto de contato
+
+O ponto de contato corresponde à região da corda onde ocorre a interação com a crina.
+
+Sua alteração modifica as condições da interação entre arco e corda e, consequentemente, a resposta sonora.
+
+## 4. Mudanças de direção
+
+A mudança de direção do arco exige coordenação entre diferentes segmentos do membro superior.
+
+A participação do braço, antebraço, punho, mão e dedos deve ser analisada de maneira integrada.
+
+## 5. Polegar e mão
+
+O controle do arco depende da organização da mão.
+
+A tensão excessiva do polegar pode interferir na liberdade e na coordenação necessárias para o movimento.
+
+Por isso, o estudo técnico deve considerar tanto o resultado sonoro quanto a organização corporal utilizada para produzi-lo.
+
+## 6. Relação entre técnica e física
+
+Os parâmetros técnicos possuem correspondência com fenômenos físicos.
+
+| Técnica | Aspecto físico |
+|---|---|
+| Velocidade do arco | velocidade do movimento sobre a corda |
+| Pressão | força aplicada à interação |
+| Ponto de contato | região da interação arco-corda |
+| Movimento do arco | excitação da corda |
+
+## Síntese
+
+A técnica do arco pode ser entendida como a capacidade de controlar conscientemente os parâmetros físicos da interação arco-corda por meio de movimentos corporais coordenados.
+
+**corpo → arco → corda → vibração → som**
 Os princípios técnicos serão relacionados aos fenômenos físicos estudados na seção de física do arco.
 
 ## Fontes
