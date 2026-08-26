@@ -8,52 +8,97 @@ Fonte: https://www.georgcello.com/bow.htm
 
 ## Objetivo
 
-Compreender os princípios físicos envolvidos na interação entre o arco e a corda do violoncelo e relacioná-los às decisões técnicas do instrumentista.
+Compreender os principais fatores envolvidos na produção sonora a partir da interação entre o arco e a corda do violoncelo.
 
-## 1. Interação entre arco e corda
+Mertens propõe analisar a técnica de arco a partir do que acontece na região de contato entre a crina e a corda, deslocando a atenção de regras fixas sobre a forma de segurar o arco para o comportamento observável e audível da interação arco-corda.
 
-A produção sonora ocorre a partir da interação mecânica entre a crina do arco e a corda.
+## 1. Os cinco elementos da técnica
 
-O movimento do arco produz uma força de atrito sobre a corda. Essa interação faz com que a corda entre em movimento e produza vibrações que posteriormente são transmitidas ao corpo do instrumento.
+Mertens organiza sua análise em cinco elementos relacionados à produção da qualidade sonora:
 
-## 2. Atrito
+1. inclinação do arco;
+2. direção do arco;
+3. peso ou pressão sobre a corda;
+4. ponto de contato entre arco e corda;
+5. velocidade do arco.
 
-O atrito entre a crina e a corda é fundamental para a produção do som.
+Os dois primeiros são apresentados como elementos invariáveis, enquanto peso/pressão, ponto de contato e velocidade são tratados como elementos variáveis.
 
-A relação entre o movimento do arco e a resposta da corda depende de diferentes parâmetros da execução, entre eles:
+## 2. Inclinação do arco
 
-- velocidade do arco;
-- força aplicada;
-- ponto de contato;
-- tensão da corda.
+No violoncelo, Mertens descreve uma inclinação do arco em direção ao instrumentista, correspondente à orientação do arco para longe do cavalete.
 
-## 3. Velocidade, força e ponto de contato
+A justificativa apresentada está relacionada ao comportamento da vibração da corda e à distribuição do peso das cerdas em relação ao cavalete e ao espelho.
 
-A qualidade e a estabilidade do som dependem da combinação entre diferentes parâmetros do movimento do arco.
+Assim, a inclinação não é apresentada apenas como uma regra de posicionamento, mas como uma condição relacionada ao comportamento da corda e à produção do som.
 
-Podem ser destacados três parâmetros fundamentais:
+## 3. Direção do arco
 
-**Velocidade do arco:** determina a velocidade com que o arco se desloca sobre a corda.
+A direção corresponde ao deslocamento do arco sobre a corda.
 
-**Força aplicada:** corresponde à pressão exercida pelo arco sobre a corda.
+Mertens chama atenção para a importância de observar o efeito produzido pelo movimento do arco sobre a corda, em vez de concentrar a análise exclusivamente na posição da mão.
 
-**Ponto de contato:** corresponde à região da corda em que ocorre a interação entre a crina e a corda.
+## 4. Peso e pressão
 
-Esses parâmetros não devem ser considerados isoladamente. A alteração de um deles modifica a resposta necessária dos outros.
+O peso ou a pressão aplicada pelo arco constitui um dos três elementos variáveis.
 
-## 4. Relação entre física e técnica
+Mertens demonstra que uma aplicação excessiva de peso pode prejudicar a liberdade de vibração da corda, enquanto uma aplicação insuficiente pode não produzir a resposta desejada.
 
-Os fenômenos físicos descritos por Mertens ajudam a explicar por que determinadas escolhas técnicas produzem diferentes resultados sonoros.
+O objetivo não é simplesmente aplicar mais força, mas encontrar uma condição adequada de interação com a corda.
 
-Assim, conceitos como pressão, velocidade e ponto de contato não são apenas instruções técnicas: correspondem a condições físicas que influenciam o comportamento da corda.
+## 5. Ponto de contato
 
-## Aplicação ao miniguia
+O ponto de contato corresponde à região da corda em que ocorre a interação com a crina.
 
-A compreensão desses princípios permitirá relacionar:
+Sua posição influencia a resposta da corda e deve ser considerada juntamente com a pressão e a velocidade do arco.
 
-**ação do arco → interação física → vibração da corda → produção sonora**
+## 6. Velocidade do arco
 
-Essa relação será posteriormente integrada aos aspectos biomecânicos e técnicos estudados nas outras fontes.
+Mertens destaca a velocidade como um elemento particularmente flexível da técnica.
+
+A velocidade pode ser utilizada para modificar a resposta sonora, controlar o início e o final das notas e produzir diferentes gradações de dinâmica e expressão.
+
+A quantidade de arco utilizada está diretamente relacionada à velocidade, de modo que esses dois aspectos precisam ser considerados conjuntamente.
+
+## 7. Os três elementos variáveis trabalham juntos
+
+Um dos pontos centrais da análise de Mertens é que:
+
+**pressão + ponto de contato + velocidade**
+
+não devem ser tratados como variáveis independentes.
+
+Uma alteração em um desses parâmetros modifica as condições necessárias para os outros.
+
+Consequentemente, a produção de um determinado resultado sonoro depende do equilíbrio entre os três.
+
+## 8. O som como indicador
+
+Mertens coloca o resultado sonoro no centro da avaliação da técnica.
+
+Em vez de considerar uma determinada forma da mão ou do corpo como garantia de um resultado, a execução deve ser observada a partir da resposta da corda e do som produzido.
+
+Essa abordagem permite compreender a técnica como um processo de observação, escuta, ajuste e resposta.
+
+## 9. Relação entre física e prática instrumental
+
+A análise de Mertens permite interpretar a técnica de arco como um sistema de relações:
+
+**movimento do arco → interação arco-corda → vibração da corda → resposta sonora**
+
+Dentro desse sistema, pressão, ponto de contato e velocidade precisam ser ajustados conjuntamente.
+
+A consequência prática é que uma instrução técnica não deve ser considerada isoladamente de seu efeito sobre a corda e sobre o som.
+
+## Síntese
+
+A principal contribuição de Mertens para este projeto é fornecer um modelo objetivo para analisar a produção sonora do arco.
+
+A técnica pode ser estudada a partir de cinco elementos:
+
+**inclinação + direção + pressão + ponto de contato + velocidade**
+
+Entre eles, pressão, ponto de contato e velocidade formam um conjunto de variáveis interdependentes que determina grande parte da resposta da corda.
 
 ## Fonte
 
