@@ -154,7 +154,7 @@ Por exemplo:
 
 O objetivo não é encontrar uma "posição perfeita", mas desenvolver percepção da relação entre ação e resposta.
 
-
+ 
 
 ## Relação entre os principais parâmetros
 
