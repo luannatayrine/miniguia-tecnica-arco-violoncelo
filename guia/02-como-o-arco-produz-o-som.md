@@ -76,3 +76,6 @@ A produção sonora pode ser compreendida como uma cadeia:
 → **som**
 
 O controle técnico consiste em aprender a modificar essa interação de maneira consciente para alcançar diferentes resultados sonoros.
+
+[← Anterior](01-introducao.md) ·
+[Próximo →](03-parametros-do-arco.md)
