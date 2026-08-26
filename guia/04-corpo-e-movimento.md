@@ -172,3 +172,6 @@ A técnica de arco depende da integração entre:
 A organização corporal fornece os meios para controlar os parâmetros físicos da interação arco-corda.
 
 Uma prática saudável procura desenvolver esse controle sem acrescentar tensão desnecessária ao movimento.
+
+[← Anterior](03-parametros-do-arco.md) ·
+[Próximo →](05-polegar-e-tensao.md)
