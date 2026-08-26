@@ -48,7 +48,7 @@ As fontes devem contribuir para a compreensão técnica do arco a partir de aspe
 ### 3. Torres, Maria Inês Vaz
 
 **Título:** *Introdução à técnica de arco no violoncelo. Estratégias pedagógicas para uma prática saudável*  
-**Ano:** 2025  
+**Ano:** 2026  
 **Tipo:** Dissertação de Mestrado  
 **Instituição:** Escola Superior de Artes Aplicadas do Instituto Politécnico de Castelo Branco  
 **Link:** http://hdl.handle.net/10400.11/10934
