@@ -73,7 +73,6 @@ Mertens, Georg. *Re-Thinking Bow Technique: An Objective Analysis of Bow Techniq
 Torres, Maria Inês Vaz. *Introdução à técnica de arco no violoncelo. Estratégias pedagógicas para uma prática saudável*. 2026.
 
 Putzner, Catarina. *Os impactos das tensões do polegar na técnica de arco*. 2025.
----
 
 
 
