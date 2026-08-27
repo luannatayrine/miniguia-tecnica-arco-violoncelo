@@ -5,7 +5,13 @@ Esta pasta reúne as fontes utilizadas na construção do **Miniguia Técnico do
 ## Organização
 
 - `01-fisica-do-arco.md` — princípios físicos envolvidos na interação entre arco e corda.
-- Outras páginas serão adicionadas conforme a pesquisa avançar.
+  
+A pasta reúne quatro páginas de análise que organizam as contribuições das fontes segundo os principais eixos do projeto:
+
+- física da interação arco-corda;
+- biomecânica;
+- técnica de arco;
+- integração entre física e biomecânica.
 
 ## Critérios de seleção
 
@@ -16,8 +22,6 @@ As fontes devem contribuir para a compreensão técnica do arco a partir de aspe
 - fisiologia e movimento;
 - técnica de arco;
 - relação entre corpo, instrumento e produção sonora.
-
-## Referências
 
 ## Referências
 
