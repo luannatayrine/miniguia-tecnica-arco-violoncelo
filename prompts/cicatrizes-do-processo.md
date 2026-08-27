@@ -1,51 +1,104 @@
-# Cicatrizes do processo
+# Cicatrizes e Troubleshooting — Uso do NotebookLM
 
-## Problema 1 — Concordâncias não suficientemente sustentadas
+Esta seção registra dificuldades encontradas durante o processo de pesquisa com IA, as alterações realizadas nos prompts e os critérios utilizados para melhorar a qualidade das respostas.
 
-Durante a comparação das fontes, algumas afirmações foram apresentadas como concordâncias entre os autores.
+A intenção é documentar não apenas o resultado final, mas também o processo de refinamento das perguntas.
 
-### Problema identificado
+## 1. Primeiro problema: respostas muito amplas
 
-A resposta inicial agrupava determinadas ideias como se fossem sustentadas pelas duas fontes, sem apresentar evidência suficiente de ambas.
+### Situação
 
-### Estratégia utilizada
+O primeiro conjunto de perguntas buscava compreender a técnica de arco de maneira geral. As respostas apresentavam diversos conceitos relacionados ao violoncelo, mas nem sempre deixavam suficientemente claro quais informações estavam diretamente fundamentadas nas fontes selecionadas.
 
-Foi elaborado um novo prompt solicitando a revisão individual de cada concordância e a indicação das evidências presentes em cada fonte.
+### Ajuste realizado
 
-### Prompt de correção
-
-> Revise a resposta anterior e verifique, especificamente, as afirmações apresentadas como concordâncias entre as duas fontes. Para cada uma das seis concordâncias identificadas, indique as passagens ou evidências presentes em cada fonte, que sustentam a afirmação. Caso uma afirmação não seja sustentada claramente por ambas as fontes, sinalize-a explicitamente em vez de inferir ou completar a informação.
+O prompt foi refinado para solicitar que a resposta utilizasse prioritariamente as fontes carregadas no NotebookLM e identificasse a origem das informações.
 
 ### Aprendizado
 
-A comparação entre fontes não deve ser tratada automaticamente como evidência de concordância. É necessário verificar se cada fonte realmente sustenta a afirmação.
+Uma pergunta ampla pode produzir uma resposta informativa, mas não necessariamente adequada para um trabalho que exige rastreabilidade das informações. Por este motivo, tornou-se necessário restringir o escopo e solicitar referências explícitas.
 
 ---
 
-## Problema 2 — Diferenciação entre evidência e inferência
+## 2. Segundo problema: separar informação da fonte e interpretação
 
-Durante a construção do conteúdo, algumas conclusões poderiam parecer decorrentes diretamente das fontes, embora fossem resultado da combinação de diferentes informações.
+### Situação
 
-### Estratégia utilizada
+Ao comparar informações sobre física, biomecânica e técnica, surgiu o risco de apresentar como consenso das fontes uma conclusão que, na realidade, era uma síntese produzida a partir da comparação entre elas.
 
-Foi solicitado que as recomendações fossem classificadas como:
+### Ajuste realizado
 
-- A — explicitamente recomendadas;
-- B — síntese ou interpretação;
-- C — não suficientemente sustentadas.
+Os prompts passaram a solicitar uma distinção entre:
+
+* informação diretamente apresentada pela fonte;
+* informação sustentada pela combinação de fontes;
+* interpretação ou inferência produzida durante a análise.
 
 ### Aprendizado
 
-A distinção entre informação encontrada na fonte e interpretação construída durante a análise é essencial para manter a rastreabilidade do conteúdo.
+A IA pode produzir uma síntese coerente sem deixar evidente quais partes estão literalmente fundamentadas em uma fonte específica. Solicitar explicitamente essa diferenciação melhora a confiabilidade da pesquisa.
 
 ---
 
-## Problema 3 — Necessidade de limitar a análise às fontes
+## 3. Terceiro problema: necessidade de verificar afirmações
 
-Algumas perguntas poderiam ser respondidas utilizando conhecimento geral sobre técnica de violoncelo.
+### Situação
 
-Entretanto, para preservar a qualidade da pesquisa, os prompts passaram a exigir explicitamente que as respostas fossem baseadas exclusivamente nas fontes selecionadas.
+Algumas respostas apresentavam explicações técnicas de maneira muito direta. Isso poderia levar à aceitação automática de uma afirmação sem verificar se ela estava efetivamente sustentada pelos documentos utilizados.
+
+### Ajuste realizado
+
+Foram elaborados prompts solicitando que as afirmações fossem classificadas conforme seu grau de sustentação nas fontes.
+
+### Critério utilizado
+
+A análise passou a considerar três possibilidades:
+
+**A — Evidência direta:** a informação está explicitamente apresentada em uma fonte.
+
+**B — Síntese entre fontes:** a conclusão resulta da combinação de informações presentes em mais de uma fonte.
+
+**C — Inferência/interpretação:** a conclusão não está explicitamente apresentada nas fontes e deve ser tratada como interpretação.
 
 ### Aprendizado
 
-Restringir o conjunto de evidências reduz o risco de incorporar informações externas sem perceber.
+Essa classificação ajudou a evitar que interpretações fossem apresentadas como fatos documentados.
+
+---
+
+## 4. Quarto problema: transformar pesquisa em material de estudo
+
+### Situação
+
+As respostas do NotebookLM eram úteis para investigação, mas não estavam necessariamente organizadas na forma de um material de revisão.
+
+### Ajuste realizado
+
+Depois da etapa de investigação, foram utilizados prompts específicos para organizar as informações em tópicos, relações entre conceitos, sínteses e aplicações práticas.
+
+### Aprendizado
+
+A IA foi utilizada em etapas diferentes: primeiro como ferramenta de investigação e comparação e depois como ferramenta de organização do conhecimento.
+
+---
+
+## 5. O que foi aprendido sobre elaboração de prompts
+
+O principal aprendizado do processo foi que a qualidade da resposta depende não apenas da pergunta, mas também das restrições fornecidas.
+
+Prompts mais eficientes passaram a especificar:
+
+* quais fontes deveriam ser utilizadas;
+* qual era o objetivo da pergunta;
+* qual nível de detalhe era desejado;
+* como as evidências deveriam ser apresentadas;
+* quando uma informação deveria ser tratada como inferência;
+* qual estrutura deveria ser utilizada na resposta.
+
+Assim, o processo evoluiu de perguntas gerais para perguntas mais controladas, verificáveis e orientadas ao objetivo do estudo.
+
+## Síntese do troubleshooting
+
+**Prompt amplo → identificação do problema → restrição do escopo → solicitação de evidências → comparação das fontes → síntese final.**
+
+Esse processo foi incorporado ao método de construção do Caderno Temático.
