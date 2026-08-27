@@ -163,11 +163,9 @@ flowchart TD
     A[Pressão / Peso] <--> B[Ponto de contato]
     B <--> C[Velocidade]
     C <--> A
-
     A --> D[Resposta da corda]
     B --> D
     C --> D
-
     D --> E[Resultado sonoro]
 ```
 
