@@ -42,6 +42,22 @@ O processo foi organizado em etapas:
 
 Dessa forma, a IA não foi utilizada apenas para gerar texto, mas como ferramenta para pesquisar, comparar, questionar, verificar e organizar o conhecimento.
 
+## NotebookLM
+
+O Caderno Temático foi desenvolvido no NotebookLM com o título:
+
+**Fundamentos da Técnica de Arco no Violoncelo**
+Link do Notebook: https://notebook.google.com/notebook/f4eb6f31-bbe2-46be-a0b7-a937b24cb80d
+
+Foram utilizadas três fontes principais:
+
+* Georg Mertens — *Re-Thinking Bow Technique*
+* Maria Inês Vaz Torres — *Introdução à técnica de arco no violoncelo. Estratégias pedagógicas para uma prática saudável*
+* Catarina Putzner — *Os impactos das tensões do polegar na técnica de arco*
+
+As fontes foram utilizadas para investigar diferentes dimensões do tema e posteriormente cruzadas para produzir uma síntese integrada entre física, movimento corporal, técnica e produção sonora.
+
+O projeto também registra o processo de elaboração e refinamento dos prompts, incluindo dificuldades encontradas durante a interação com a IA e estratégias utilizadas para melhorar a qualidade e a rastreabilidade das respostas.
 ## Estrutura
 
 ###  Fontes
@@ -82,3 +98,29 @@ INTERAÇÃO ARCO-CORDA
 VIBRAÇÃO
   ↓
 SOM
+
+## Navegação pelo projeto
+
+### Fontes
+
+A pasta [`fontes/`](./fontes/) apresenta as fontes selecionadas, sua contribuição para o projeto e a integração das diferentes perspectivas utilizadas na pesquisa.
+
+### Miniguia de estudo
+
+A pasta [`guia/`](./guia/) contém o material de estudo consolidado:
+
+* [Introdução](./guia/01-introducao.md)
+* [Como o arco produz o som](./guia/02-como-o-arco-produz-o-som.md)
+* [Parâmetros do arco](./guia/03-parametros-do-arco.md)
+* [Corpo e movimento](./guia/04-corpo-e-movimento.md)
+* [Polegar e tensão](./guia/05-polegar-e-tensao.md)
+* [Glossário](./guia/06-glossario.md)
+
+### Engenharia de prompts
+
+A pasta [`prompts/`](./prompts/) documenta o processo de interação com a IA:
+
+* [Prompts utilizados](./prompts/prompts-utilizados.md)
+* [Cicatrizes e troubleshooting](./prompts/cicatrizes-e-troubleshooting.md)
+* [Prompts reutilizáveis](./prompts/prompts-reutilizaveis.md)
+
