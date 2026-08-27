@@ -24,6 +24,24 @@ O projeto procura responder não apenas **"como fazer?"**, mas também:
 
 > **"O que está acontecendo fisicamente e corporalmente quando fazemos isso?"**
 
+## Metodologia
+
+O projeto foi desenvolvido utilizando a Inteligência Artificial como ferramenta de aprendizagem ativa por meio do NotebookLM.
+
+O processo foi organizado em etapas:
+
+1. **Definição do tema:** escolha dos fundamentos da técnica de arco no violoncelo como objeto de estudo.
+2. **Curadoria:** seleção de três fontes abertas relacionadas à física da interação arco-corda, biomecânica, técnica e tensões corporais.
+3. **Organização das fontes:** preparação e carregamento dos materiais selecionados no NotebookLM.
+4. **Investigação:** elaboração de perguntas estratégicas sobre os conceitos estudados.
+5. **Comparação:** análise das informações apresentadas pelas diferentes fontes.
+6. **Verificação:** solicitação de referências e distinção entre evidências diretas, sínteses entre fontes e interpretações.
+7. **Refinamento:** reformulação dos prompts quando as respostas eram amplas, pouco específicas ou insuficientemente rastreáveis.
+8. **Síntese:** organização dos resultados em um miniguia de estudo.
+9. **Revisão:** construção de glossário e prompts reutilizáveis para futuras sessões de estudo.
+
+Dessa forma, a IA não foi utilizada apenas para gerar texto, mas como ferramenta para pesquisar, comparar, questionar, verificar e organizar o conhecimento.
+
 ## Estrutura
 
 ###  Fontes
@@ -34,6 +52,7 @@ A pasta `fontes/` contém a organização e a análise das referências utilizad
 - [Biomecânica do arco](fontes/02-biomecanica-do-arco.md)
 - [Técnica do arco](fontes/03-tecnica-do-arco.md)
 - [Integração entre física e biomecânica](fontes/04-integracao-fisica-biomecanica.md)
+
 
 ###  Guia
 
