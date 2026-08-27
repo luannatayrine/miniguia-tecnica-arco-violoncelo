@@ -58,3 +58,25 @@ As fontes devem contribuir para a compreensão técnica do arco a partir de aspe
 **Link:** http://hdl.handle.net/10400.11/10934
 
 **Contribuição para o projeto:** abordagem pedagógica da técnica de arco, com foco na organização corporal e em uma prática saudável.
+
+## Curadoria das fontes
+
+As fontes foram selecionadas considerando sua relação direta com os objetivos do Caderno Temático e a possibilidade de cruzar diferentes perspectivas sobre a técnica de arco no violoncelo.
+
+| Fonte | Tema principal | Contribuição para o projeto |
+|---|---|---|
+| Georg Mertens — *Re-Thinking Bow Technique* | Física e interação arco-corda | Fundamenta a relação entre pressão, velocidade, ponto de contato e produção sonora. |
+| Maria Inês Vaz Torres — *Introdução à técnica de arco no violoncelo. Estratégias pedagógicas para uma prática saudável* | Técnica, corpo e pedagogia | Contribui para compreender a organização corporal e a execução técnica do arco. |
+| Catarina Putzner — *Os impactos das tensões do polegar na técnica de arco* | Polegar e tensão | Contribui para compreender a relação entre posicionamento do polegar, tensão e movimento do arco. |
+
+### Critérios de seleção
+
+As fontes foram escolhidas por apresentarem perspectivas complementares. O objetivo não foi utilizar uma única fonte como autoridade absoluta, mas cruzar informações sobre:
+
+- os aspectos físicos da interação arco-corda;
+- a organização biomecânica do movimento;
+- a relação entre técnica e percepção corporal;
+- a influência das tensões, especialmente na região do polegar;
+- possíveis relações entre esses fatores e o resultado sonoro.
+
+O cruzamento das fontes permitiu construir uma síntese própria para o Caderno Temático, distinguindo informações diretamente apresentadas pelas fontes de interpretações produzidas a partir da comparação entre elas.
