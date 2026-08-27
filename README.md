@@ -445,7 +445,7 @@ As informações bibliográficas e os links das fontes estão organizados na pas
 
 ---
 
-# 🏁 Conclusão
+#  Conclusão
 
 O projeto demonstra uma aplicação prática da Inteligência Artificial como ferramenta de aprendizagem ativa.
 
