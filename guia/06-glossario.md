@@ -1,77 +1,103 @@
-# Glossário
+# Glossário — Fundamentos da Técnica de Arco no Violoncelo
 
-## Arco
+Este glossário reúne os principais conceitos utilizados no Caderno Temático e apresenta definições resumidas para facilitar revisões futuras.
 
-Dispositivo utilizado pelo violoncelista para produzir e controlar a vibração das cordas por meio da interação com a crina.
+## A
 
-## Corda
+### Arco
 
-Elemento vibratório do violoncelo cuja interação com o arco inicia o processo de produção sonora.
+Dispositivo utilizado para produzir o som das cordas do violoncelo por meio da interação entre a crina e a corda.
 
-## Crina
+### Atrito
 
-Material utilizado na parte funcional do arco que entra em contato com a corda.
+Interação entre duas superfícies que influencia a capacidade da crina do arco de provocar o movimento da corda.
 
-## Ponto de contato
+## C
 
-Local da corda em que o arco atua durante a execução.
+### Crina
 
-## Pressão
+Conjunto de fios utilizados na parte do arco que entra em contato com a corda. Sua interação com a corda participa diretamente da produção do som.
 
-Força aplicada pelo arco sobre a corda durante a interação.
+### Corda
 
-## Peso
+Elemento vibratório do violoncelo que recebe a ação do arco e cuja vibração produz a fonte primária do som do instrumento.
 
-Participação do peso do braço e do conjunto corporal na aplicação da força sobre o arco.
+## D
 
-## Velocidade do arco
+### Direção do arco
 
-Rapidez com que o arco se desloca sobre a corda.
+Sentido do deslocamento do arco sobre a corda, como arco para baixo ou para cima.
 
-## Inclinação
+## I
 
-Orientação do arco em relação à corda.
+### Inclinação do arco
 
-## Direção
+Ângulo formado pelo arco em relação à corda. Alterações na inclinação modificam a forma como a crina interage com a corda.
 
-Sentido do deslocamento do arco.
+### Interação arco-corda
 
-## Atrito
+Relação física estabelecida entre a crina do arco e a corda durante a execução. É fundamental para compreender a produção e o controle do som.
 
-Interação entre superfícies que se opõe ao deslizamento relativo e que, no contexto da técnica de arco, participa da interação entre crina e corda.
+## P
 
-## Vibração
+### Peso/pressão do arco
 
-Movimento oscilatório da corda provocado pela interação com o arco.
+Quantidade de força ou peso aplicada pelo executante na interação entre o arco e a corda. Deve ser compreendida em conjunto com outros parâmetros do arco.
 
-## Tensão
+### Ponto de contato
 
-Estado de contração ou esforço muscular. No contexto deste projeto, a atenção está especialmente voltada à tensão excessiva ou desnecessária.
+Região da corda na qual ocorre a interação entre a crina do arco e a corda. Sua posição influencia a resposta sonora.
 
-## Polegar
+### Polegar
 
-Dedo da mão direita que participa da relação da mão com o arco e cuja tensão é objeto específico de estudo na fonte de Putzner.
+Dedo da mão que segura o arco cuja posição e mobilidade participam da organização da mão e do controle do movimento.
 
-## Biomecânica
+## P — R
 
-Área que permite analisar as relações entre corpo, movimento e forças envolvidas na execução.
+### Parâmetros do arco
 
-## Interação arco-corda
+Conjunto de variáveis que influenciam a execução e o resultado sonoro, incluindo velocidade, pressão/peso, ponto de contato, direção e inclinação.
 
-Relação mecânica estabelecida entre o arco e a corda durante a produção sonora.
+### Propriocepção
 
-## Distribuição do arco
+Percepção que permite reconhecer a posição e o movimento do próprio corpo. No estudo do arco, contribui para perceber tensões, movimentos e ajustes corporais.
 
-Utilização das diferentes regiões e quantidades do arco ao longo da execução.
+## S
 
-## Síntese
+### Som
 
-Conclusão construída a partir da combinação ou relação entre informações provenientes de diferentes fontes.
+Resultado perceptível da vibração da corda, influenciado pela interação entre arco, corda e diferentes parâmetros da execução.
 
-## Inferência
+## T
 
-Conclusão que não aparece necessariamente de forma explícita na fonte, mas que pode ser construída a partir de informações apresentadas nela.
+### Técnica de arco
 
-## Evidência
+Conjunto de conhecimentos e habilidades relacionados ao controle e à utilização do arco para produzir diferentes resultados sonoros.
 
-Informação presente na fonte que pode ser utilizada para sustentar uma afirmação.
+### Tensão muscular
+
+Estado de contração muscular que pode ser necessário para determinados movimentos, mas que, quando excessivo ou desnecessário, pode prejudicar a liberdade e a eficiência do movimento.
+
+### Talão
+
+Região do arco próxima à mão que o segura.
+
+## V
+
+### Velocidade do arco
+
+Rapidez com que o arco se desloca sobre a corda. É um dos parâmetros que influenciam a resposta da corda e o resultado sonoro.
+
+### Vibração
+
+Movimento oscilatório da corda provocado pela interação com o arco. Essa vibração está relacionada à produção do som do violoncelo.
+
+## Relação entre os conceitos
+
+Os conceitos apresentados não devem ser considerados isoladamente. A técnica de arco resulta da interação entre diferentes parâmetros físicos e aspectos corporais.
+
+De maneira simplificada:
+
+**corpo → movimento → controle do arco → interação arco-corda → vibração → resultado sonoro**
+
+Essa relação representa uma síntese didática construída a partir do cruzamento das fontes estudadas no Caderno Temático.
