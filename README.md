@@ -69,6 +69,31 @@ A pasta `fontes/` contém a organização e a análise das referências utilizad
 - [Técnica do arco](fontes/03-tecnica-do-arco.md)
 - [Integração entre física e biomecânica](fontes/04-integracao-fisica-biomecanica.md)
 
+## Navegação pelo projeto
+
+### Fontes
+
+A pasta [`fontes/`](./fontes/) apresenta as fontes selecionadas, sua contribuição para o projeto e a integração das diferentes perspectivas utilizadas na pesquisa.
+
+### Miniguia de estudo
+
+A pasta [`guia/`](./guia/) contém o material de estudo consolidado:
+
+* [Introdução](./guia/01-introducao.md)
+* [Como o arco produz o som](./guia/02-como-o-arco-produz-o-som.md)
+* [Parâmetros do arco](./guia/03-parametros-do-arco.md)
+* [Corpo e movimento](./guia/04-corpo-e-movimento.md)
+* [Polegar e tensão](./guia/05-polegar-e-tensao.md)
+* [Glossário](./guia/06-glossario.md)
+
+### Engenharia de prompts
+
+A pasta [`prompts/`](./prompts/) documenta o processo de interação com a IA:
+
+* [Prompts utilizados](./prompts/prompts-utilizados.md)
+* [Cicatrizes e troubleshooting](./prompts/cicatrizes-e-troubleshooting.md)
+* [Prompts reutilizáveis](./prompts/prompts-reutilizaveis.md)
+
 
 ###  Guia
 
@@ -98,29 +123,4 @@ INTERAÇÃO ARCO-CORDA
 VIBRAÇÃO
   ↓
 SOM
-
-## Navegação pelo projeto
-
-### Fontes
-
-A pasta [`fontes/`](./fontes/) apresenta as fontes selecionadas, sua contribuição para o projeto e a integração das diferentes perspectivas utilizadas na pesquisa.
-
-### Miniguia de estudo
-
-A pasta [`guia/`](./guia/) contém o material de estudo consolidado:
-
-* [Introdução](./guia/01-introducao.md)
-* [Como o arco produz o som](./guia/02-como-o-arco-produz-o-som.md)
-* [Parâmetros do arco](./guia/03-parametros-do-arco.md)
-* [Corpo e movimento](./guia/04-corpo-e-movimento.md)
-* [Polegar e tensão](./guia/05-polegar-e-tensao.md)
-* [Glossário](./guia/06-glossario.md)
-
-### Engenharia de prompts
-
-A pasta [`prompts/`](./prompts/) documenta o processo de interação com a IA:
-
-* [Prompts utilizados](./prompts/prompts-utilizados.md)
-* [Cicatrizes e troubleshooting](./prompts/cicatrizes-e-troubleshooting.md)
-* [Prompts reutilizáveis](./prompts/prompts-reutilizaveis.md)
 
