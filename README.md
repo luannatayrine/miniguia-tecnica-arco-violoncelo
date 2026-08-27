@@ -1,8 +1,8 @@
-# 🎻 Miniguia Técnico do Arco do Violoncelo
+#  Miniguia Técnico do Arco do Violoncelo
 
 > Um caderno temático desenvolvido com apoio do NotebookLM para investigar a relação entre física, biomecânica, técnica de arco e produção sonora no violoncelo.
 
-## 📌 Sobre o projeto
+##  Sobre o projeto
 
 Este projeto foi desenvolvido como parte de um desafio de aprendizagem ativa utilizando **Inteligência Artificial como ferramenta de pesquisa, análise e organização do conhecimento**.
 
@@ -20,7 +20,7 @@ O objetivo não foi apenas reunir instruções sobre como executar determinado m
 
 ---
 
-# 🎯 Objetivos
+#  Objetivos
 
 ## Objetivo geral
 
@@ -42,7 +42,7 @@ Construir um miniguia introdutório sobre os fundamentos da técnica de arco no 
 
 ---
 
-# 🤖 Uso da Inteligência Artificial e do NotebookLM
+#  Uso da Inteligência Artificial e do NotebookLM
 
 O projeto utiliza o **NotebookLM** como ferramenta de aprendizagem ativa.
 
@@ -68,7 +68,7 @@ A IA não foi utilizada como substituta da análise crítica. As respostas foram
 
 ---
 
-# 🔬 Metodologia
+#  Metodologia
 
 O desenvolvimento do projeto foi organizado em etapas.
 
@@ -138,7 +138,7 @@ O material final foi complementado com:
 
 ---
 
-# 📚 Curadoria das fontes
+#  Curadoria das fontes
 
 As fontes foram selecionadas considerando sua relação direta com os objetivos do estudo e a possibilidade de cruzar diferentes perspectivas sobre a técnica de arco no violoncelo.
 
@@ -164,7 +164,7 @@ O cruzamento das fontes permitiu construir uma síntese integrada, distinguindo 
 
 ---
 
-# 📂 Estrutura do repositório
+#  Estrutura do repositório
 
 ```text
 miniguia-tecnica-arco-violoncelo/
@@ -195,7 +195,7 @@ miniguia-tecnica-arco-violoncelo/
 
 ---
 
-# 📖 Miniguia de estudo
+#  Miniguia de estudo
 
 O conteúdo consolidado está organizado na pasta [`guia/`](./guia/).
 
@@ -257,7 +257,7 @@ Reúne os principais conceitos utilizados durante o estudo, com definições res
 
 ---
 
-# 🧠 Engenharia de Prompts
+#  Engenharia de Prompts
 
 A pasta [`prompts/`](./prompts/) documenta o processo de interação com a IA.
 
@@ -275,7 +275,7 @@ Eles foram organizados de forma progressiva:
 
 ---
 
-# 🩹 Cicatrizes e Troubleshooting
+#  Cicatrizes e Troubleshooting
 
 O arquivo [`cicatrizes-e-troubleshooting.md`](./prompts/cicatrizes-e-troubleshooting.md) registra as dificuldades encontradas durante a interação com a IA e as estratégias utilizadas para melhorar as respostas.
 
@@ -292,7 +292,7 @@ Entre os principais aprendizados estão:
 
 ---
 
-# ♻️ Prompts reutilizáveis
+#  Prompts reutilizáveis
 
 O arquivo [`prompts-reutilizaveis.md`](./prompts/prompts-reutilizaveis.md) reúne prompts que podem ser utilizados em futuras sessões de estudo.
 
@@ -337,7 +337,7 @@ Ele não deve ser interpretado como uma cadeia mecânica rígida, mas como uma m
 
 ---
 
-# 🔎 Principais aprendizados
+#  Principais aprendizados
 
 O estudo permitiu compreender que a técnica de arco não deve ser analisada como um conjunto isolado de movimentos.
 
@@ -361,7 +361,7 @@ O estudo também evidenciou a importância de observar o movimento de maneira in
 
 ---
 
-# 🧩 Aprendizagem ativa
+#  Aprendizagem ativa
 
 Uma das principais conclusões metodológicas do projeto foi que a IA pode ser mais útil quando utilizada para provocar investigação, e não apenas para fornecer respostas.
 
@@ -389,7 +389,7 @@ Nesse processo, o estudante permanece responsável por avaliar as informações 
 
 ---
 
-# ⚠️ Limitações
+#  Limitações
 
 Este projeto tem caráter introdutório e educacional.
 
@@ -407,7 +407,7 @@ Da mesma forma, as sínteses produzidas a partir das fontes não devem ser confu
 
 ---
 
-# 📚 Fontes principais
+#  Fontes principais
 
 ### Georg Mertens
 
@@ -431,7 +431,7 @@ As informações bibliográficas e os links das fontes estão organizados na pas
 
 ---
 
-# 📁 Navegação pelo projeto
+#  Navegação pelo projeto
 
 | Seção                                                                          | Conteúdo                               |
 | ------------------------------------------------------------------------------ | -------------------------------------- |
@@ -461,7 +461,7 @@ Dessa forma, o GitHub funciona não apenas como local de publicação do resulta
 
 ---
 
-## 👤 Projeto
+##  Projeto
 
 **Miniguia Técnico do Arco do Violoncelo**
 
